@@ -144,8 +144,6 @@ function ProductDetail() {
               Rs {product.price.toLocaleString()}
             </h2>
           </div>
-
-          {/* Buttons */}
           <div className="mt-10 flex flex-col sm:flex-row gap-4">
 
             <a
@@ -206,7 +204,6 @@ function ProductDetail() {
             <p>✓ Fast Delivery Available</p>
             <p>✓ Cash on Delivery Supported</p>
           </div>
-
         </div>
       </div>
     </section>

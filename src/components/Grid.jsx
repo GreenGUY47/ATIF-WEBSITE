@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import PRODUCTS from "../data/products.jsx";
+import PRODUCTS from "../data/Products.jsx";
 
 function Grid() {
   const navigate = useNavigate();
