@@ -43,7 +43,7 @@ function ProductDetail() {
       </button>
 
       {/* Main Layout */}
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 xl:gap-14 items-start">
+      <div className="grid grid-cols-1 object-cover lg:grid-cols-2 gap-8 xl:gap-14 items-start">
 
         {/* Product Images */}
         <div className="w-full">
@@ -166,24 +166,6 @@ function ProductDetail() {
             >
               Buy Now
             </a>
-
-            <button
-              className="
-                flex-1
-                px-8 py-4
-                rounded-xl
-                border
-                border-gray-300
-                dark:border-gray-700
-                dark:text-white
-                hover:bg-gray-100
-                dark:hover:bg-gray-800
-                transition-all duration-300
-              "
-            >
-              Add to Cart
-            </button>
-
           </div>
 
           {/* Extra Info */}

@@ -8,7 +8,7 @@
       "/images/pod1.jpeg",
       "/images/pod2.jpeg"
     ],
-    category: "Winter Wear",
+    category: "SMOKING",
     desc: "Premium cotton oversized hoodie."
   },
     {
@@ -20,7 +20,7 @@
       "/images/pod4.jpeg",
       "/images/pod5.jpeg"
     ],
-      category: "Footwear",
+      category: "SMOKING",
       desc: "Comfort + streetwear design.",
     },
     {
@@ -32,7 +32,7 @@
       "/images/pod7.jpeg",
       "/images/pod8.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -44,7 +44,7 @@
       "/images/pod10.jpeg",
       "/images/pod11.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -56,7 +56,7 @@
       "/images/pod13.jpeg",
       "/images/pod14.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -68,7 +68,7 @@
       "/images/pod16.jpeg",
       "/images/pod17.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -80,7 +80,7 @@
       "/images/pod19.jpeg",
       "/images/pod20.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -92,7 +92,7 @@
       "/images/pod22.jpeg",
       "/images/pod23.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -104,7 +104,7 @@
       "/images/pod25.jpeg",
       "/images/pod26.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -116,7 +116,7 @@
       "/images/pod28.jpeg",
       "/images/pod29.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -128,7 +128,7 @@
       "/images/pod31.jpeg",
       "/images/pod32.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -140,7 +140,7 @@
       "/images/pod34.jpeg",
       "/images/pod35.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -152,7 +152,7 @@
       "/images/pod37.jpeg",
       "/images/pod38.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -164,7 +164,7 @@
       "/images/pod40.jpeg",
       "/images/pod1.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -176,7 +176,7 @@
       "/images/pod7.jpeg",
       "/images/pod8.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -188,7 +188,7 @@
       "/images/pod1.jpeg",
       "/images/pod2.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -200,7 +200,7 @@
       "/images/pod11.jpeg",
       "/images/pod13.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -212,7 +212,7 @@
       "/images/pod21.jpeg",
       "/images/pod9.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -224,7 +224,7 @@
       "/images/pod30.jpeg",
       "/images/pod40.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -236,7 +236,7 @@
       "/images/pod35.jpeg",
       "/images/pod8.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -248,7 +248,7 @@
       "/images/pod7.jpeg",
       "/images/pod8.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -260,7 +260,7 @@
       "/images/pod2.jpeg",
       "/images/pod3.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
      {
@@ -272,7 +272,7 @@
       "/images/pod30.jpeg",
       "/images/pod40.jpeg"
     ],
-      category: "Fashion",
+      category: "SMOKING",
       desc: "Minimal premium denim design.",
     },
   ];
