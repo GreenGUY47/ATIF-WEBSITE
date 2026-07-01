@@ -1,6 +1,6 @@
 const WhatsAppButton = () => {
   const phoneNumber = "923131664680"
-  const message = "Hi I visited https://yourwebsite.com and want details which kind of products you have."
+  const message = "Hi I visited https://atif-website.vercel.app/ and want details which kind of products you have."
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`
 
   return (
