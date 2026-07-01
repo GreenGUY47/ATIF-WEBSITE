@@ -29,7 +29,7 @@ const Footer = () => {
   return (
     <footer className="w-full bg-blue-600 dark:bg-gray-700 text-white">
       <div className="max-w-7xl mx-auto px-5 py-10 flex flex-col gap-10 sm:flex-row sm:flex-wrap sm:justify-between">
-        <h1 className="text-lg font-bold">LOGO</h1>
+        <h1 className="text-lg font-bold">SMOKE_CENTER</h1>
 
         <div className="flex flex-col gap-8 sm:flex-row sm:gap-16">
           {footerColumns.map((col) => (
